@@ -1,0 +1,6 @@
+{
+  "name": "Haveli Dine",
+  "description": "A premium and modern dark-themed landing page for Haveli Dine, a luxury restaurant, featuring an elegant menu, storytelling, contact, and Google Drive reservation saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
